@@ -91,6 +91,7 @@ default:
 | Jira | `jira` | Create/update issues via REST API v3 |
 | Linear | `linear` | Create issues via GraphQL API |
 | SendGrid | `sendgrid` | Transactional emails via v3 Mail Send API |
+| Staged Upload | `staged_upload` | Async bulk APIs: file upload → job trigger → poll |
 
 ## CLI Commands
 
